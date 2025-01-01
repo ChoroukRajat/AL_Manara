@@ -1,0 +1,17 @@
+# Ignore Python virtual environment folders
+venv/
+.env/
+env/
+
+# Ignore Node.js dependencies folder
+node_modules/
+
+# Ignore JetBrains IDE settings folder
+.idea/
+
+# Optional: Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore log files
+*.log
